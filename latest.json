@@ -1,0 +1,14 @@
+{
+  "version": "0.5.55",
+  "notes": "修复 Nuitka 冻结字节码与常量数据错配导致的 Python 编码初始化启动故障。",
+  "installer_url": "https://github.com/zhanbd/eia-calculator-updates/releases/download/v0.5.55/-0.5.55-win64.exe",
+  "fallback_installer_urls": [
+    "https://gitee.com/zhanbd/eia-calculator-updates/releases/download/v0.5.55/%E7%8E%AF%E8%AF%84%E8%AE%A1%E7%AE%97%E5%B7%A5%E5%85%B7-0.5.55-win64.exe"
+  ],
+  "sha256": "14a7158a6be508a0fd53b953a41c6d23781c7e93e358b412de0aa9686b94d0f9",
+  "signature": {
+    "algorithm": "Ed25519",
+    "key_id": "update-ed25519-2026-11",
+    "value": "NZbwHjuP2guiR0IRs1A0nwJEvigX1FlbqRuFJ3a7dpJMK+w4/BoHVWSHU2vV6CnSnkoq26D916N6aNytAnIhDg=="
+  }
+}
